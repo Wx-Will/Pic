@@ -1,4 +1,1 @@
 # Pic
-
-wx...
-tuchuang.
